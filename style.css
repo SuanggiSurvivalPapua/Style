@@ -1,6 +1,6 @@
  body
 	{
-		background-color:#fff;
+		background-color:#000;
 		font-family:'Montserrat',sans-serif;font-size:14px;
 		font-weight:400;color:$(body.text.color);
 		word-wrap:break-word;margin:0;padding:0 
